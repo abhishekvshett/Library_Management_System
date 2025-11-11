@@ -40,30 +40,25 @@ No database or external frameworks are used — all operations are performed usi
 
 ===== LIBRARY MANAGEMENT SYSTEM =====
 
-- Add Book
+1. Add Book
+2. Remove Book
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Display All Books
+7. Exit
 
-- Remove Book
-
-- Search Book
-
-- Issue Book
-
-- Return Book
-
-- Display All Books
-
-- Exit
 Enter your choice: 1
 Enter Book ID: 101
 Enter Title: Data Structures
 Enter Author: Mark Allen
-OK Book added successfully.
+Book added successfully!
 
 Enter your choice: 6
 
-ID | Title | Author | Status
-
-101 | Data Structures | Mark Allen | Available
+ID   | Title            | Author       | Status
+-----------------------------------------------
+101  | Data Structures  | Mark Allen   | Available
 
 ---
 ## Learning Highlights
