@@ -48,11 +48,11 @@ No database or external frameworks are used — all operations are performed usi
 6. Display All Books
 7. Exit
 
-Enter your choice: 1
-Enter Book ID: 101
-Enter Title: Data Structures
-Enter Author: Mark Allen
-Book added successfully!
+- Enter your choice: 1
+- Enter Book ID: 101
+- Enter Title: Data Structures
+- Enter Author: Mark Allen
+- Book added successfully!
 
 Enter your choice: 6
 
