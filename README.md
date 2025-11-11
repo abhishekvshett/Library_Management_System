@@ -40,24 +40,24 @@ No database or external frameworks are used — all operations are performed usi
 
 ===== LIBRARY MANAGEMENT SYSTEM =====
 
-Add Book
+- Add Book
 
-Remove Book
+- Remove Book
 
-Search Book
+- Search Book
 
-Issue Book
+- Issue Book
 
-Return Book
+- Return Book
 
-Display All Books
+- Display All Books
 
-Exit
+- Exit
 Enter your choice: 1
 Enter Book ID: 101
 Enter Title: Data Structures
 Enter Author: Mark Allen
-[OK] Book added successfully.
+OK Book added successfully.
 
 Enter your choice: 6
 
@@ -65,7 +65,7 @@ ID | Title | Author | Status
 
 101 | Data Structures | Mark Allen | Available
 
-
+---
 ## Learning Highlights
 
 Practical application of HashMap and ArrayList
